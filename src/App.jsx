@@ -1,5 +1,4 @@
 import "./App.css";
-import BasicGrid from "./components/BasicGrid";
 import Navbar from "./components/Navbar";
 import MenuList from "./components/MenuList";
 
